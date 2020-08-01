@@ -1,2 +1,2 @@
-FROM gcr.io/ml-pipeline/metadata-writer:0.5.1
+FROM gcr.io/ml-pipeline/metadata-writer:1.0.0
 MAINTAINER Alan <gaofb@buaa.edu.cn>
